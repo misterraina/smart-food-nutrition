@@ -1,0 +1,37 @@
+{
+    "Wet Sabzi": {
+      "serving_size": "1 katori",
+      "serving_weight": 150,
+      "water_loss": 0.15
+    },
+    "Dry Sabzi": {
+      "serving_size": "1 katori",
+      "serving_weight": 120,
+      "water_loss": 0.25
+    },
+    "Dal": {
+      "serving_size": "1 katori",
+      "serving_weight": 150,
+      "water_loss": 0.10
+    },
+    "Rice Dish": {
+      "serving_size": "1 katori",
+      "serving_weight": 150, 
+      "water_loss": 0.20
+    },
+    "Curry": {
+      "serving_size": "1 katori",
+      "serving_weight": 150,
+      "water_loss": 0.10
+    },
+    "Bread": {
+      "serving_size": "1 piece",
+      "serving_weight": 30,
+      "water_loss": 0.25
+    },
+    "default": {
+      "serving_size": "1 katori",
+      "serving_weight": 150,
+      "water_loss": 0.15
+    }
+  }

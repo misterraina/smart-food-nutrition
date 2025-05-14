@@ -1,0 +1,18 @@
+{
+    "onion": ["pyaaz", "pyaz", "onions"],
+    "tomato": ["tamatar", "tomatos", "tomatoes"],
+    "potato": ["aloo", "potatos", "alu"],
+    "cauliflower": ["gobi", "gobhi", "phool gobi"],
+    "spinach": ["palak", "paalak"],
+    "chickpeas": ["chana", "chole", "channa"],
+    "turmeric": ["haldi", "turmeric powder"],
+    "cumin": ["jeera", "zeera", "cumin seeds", "jeera powder"],
+    "coriander": ["dhaniya", "cilantro", "coriander leaves", "coriander powder"],
+    "chili": ["mirch", "chilli", "mirchi", "red chili", "green chili"],
+    "cottage cheese": ["paneer", "indian cottage cheese"],
+    "capsicum": ["shimla mirch", "bell pepper", "green pepper"],
+    "ginger": ["adrak", "ginger root"],
+    "garlic": ["lahsun", "garlic cloves"],
+    "oil": ["cooking oil", "vegetable oil", "mustard oil", "refined oil"],
+    "salt": ["namak", "sea salt", "table salt"]
+  }
