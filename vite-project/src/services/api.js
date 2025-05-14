@@ -1,7 +1,8 @@
 // src/services/api.js with serving size conversion
 import { DEFAULT_SERVING_SIZE, convertNutritionByWeight, getServingSizeText } from '../utils/nutritionUtils';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+// const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'http://13.61.189.183:5000/api'; // Production URL
 
 // Use the standard serving size from utils
 const SERVING_SIZE_GRAMS = DEFAULT_SERVING_SIZE;
