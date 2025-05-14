@@ -1,3 +1,4 @@
+// db.js
 import pg from 'pg';
 import { config } from './env.js';
 
@@ -8,7 +9,7 @@ const pool = new Pool(config.dbConfig);
 
 // Test the connection
 pool.connect()
-  .then(() => console.log('✅ Database connected successfully'))
-  .catch(err => console.error('Database connection error:', err));
+  .then(() => console.log('✅ Supabase database connected successfully'))
+  .catch(err => console.error('Supabase database connection error:', err));
 
 export default pool;
